@@ -138,3 +138,46 @@ header {
     border-radius: 25px;
 }
 
+.btn-2 {
+    display: inline;
+    border: 1px solid #fdfdfd;
+    padding: 10px 35px;
+    margin-right: 20px;
+    color: #fdfdfd;
+    border-radius: 25px;
+}
+
+.btn-1:hover {
+    background: linear-gradient(90deg, #f3031f 0%, #ff0000 100%);
+}
+
+.btn-2:hover {
+    border: 1px solid #fa0d29 ;
+}
+
+.icon {
+    width: 20px;
+}
+
+.product-menu {
+    padding: 50px 0 150px 0;
+}
+
+.title {
+    color: #fdfdfd;
+    font-size: 45px;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+.product {
+    display: flex;
+    position: relative;
+}
+
+.hoja {
+    right: 0;
+    position: absolute;
+    bottom: -130px;
+    width: 150px;
+}
